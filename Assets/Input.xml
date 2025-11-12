@@ -1,0 +1,15 @@
+<set>
+  <tiles>
+<tile name="Assets/ithappy/Inferno_World_Free/Meshes/Platforms/PlatformSmall_003.fbx" symmetry="X" weight="1.0"/>
+<tile name="Assets/ithappy/Inferno_World_Free/Prefabs/TowerBig_001.fbx" symmetry="X" weight="1.0"/>
+<tile name="Assets/ithappy/Inferno_World_Free/Meshes/Rocks/RockMid_004.fbx" symmetry="X" weight="1.0"/>
+<tile name="Assets/ithappy/Inferno_World_Free/Meshes/Rocks/Stone_006.fbx" symmetry="X" weight="1.0"/>
+<tile name="Assets/ithappy/Inferno_World_Free/Meshes/Rocks/RockBig_003.fbx" symmetry="X" weight="1.0"/>
+<tile name="Assets/ithappy/Inferno_World_Free/Meshes/Rocks/RockBig_004.fbx" symmetry="X" weight="1.0"/>
+<tile name="Assets/ithappy/Inferno_World_Free/Meshes/Props/Lid_002.fbx" symmetry="X" weight="1.0"/>
+<tile name="Assets/ithappy/Inferno_World_Free/Meshes/Props/Grass_001.fbx" symmetry="X" weight="1.0"/>
+<tile name="Assets/ithappy/Inferno_World_Free/Meshes/Props/Grass_003.fbx" symmetry="X" weight="1.0"/>
+<tile name="Assets/ithappy/Inferno_World_Free/Meshes/Props/GoldPileSmall_001.fbx" symmetry="X" weight="1.0"/>
+	</tiles>
+<neighbors>	</neighbors>
+</set>

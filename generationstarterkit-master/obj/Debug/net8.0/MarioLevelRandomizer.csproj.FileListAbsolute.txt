@@ -1,0 +1,14 @@
+/home/axel/Documents/ieva/generationstarterkit-master/bin/Debug/net8.0/MarioLevelRandomizer
+/home/axel/Documents/ieva/generationstarterkit-master/bin/Debug/net8.0/MarioLevelRandomizer.deps.json
+/home/axel/Documents/ieva/generationstarterkit-master/bin/Debug/net8.0/MarioLevelRandomizer.runtimeconfig.json
+/home/axel/Documents/ieva/generationstarterkit-master/bin/Debug/net8.0/MarioLevelRandomizer.dll
+/home/axel/Documents/ieva/generationstarterkit-master/bin/Debug/net8.0/MarioLevelRandomizer.pdb
+/home/axel/Documents/ieva/generationstarterkit-master/obj/Debug/net8.0/MarioLevelRandomizer.GeneratedMSBuildEditorConfig.editorconfig
+/home/axel/Documents/ieva/generationstarterkit-master/obj/Debug/net8.0/MarioLevelRandomizer.AssemblyInfoInputs.cache
+/home/axel/Documents/ieva/generationstarterkit-master/obj/Debug/net8.0/MarioLevelRandomizer.AssemblyInfo.cs
+/home/axel/Documents/ieva/generationstarterkit-master/obj/Debug/net8.0/MarioLevelRandomizer.csproj.CoreCompileInputs.cache
+/home/axel/Documents/ieva/generationstarterkit-master/obj/Debug/net8.0/MarioLevelRandomizer.dll
+/home/axel/Documents/ieva/generationstarterkit-master/obj/Debug/net8.0/refint/MarioLevelRandomizer.dll
+/home/axel/Documents/ieva/generationstarterkit-master/obj/Debug/net8.0/MarioLevelRandomizer.pdb
+/home/axel/Documents/ieva/generationstarterkit-master/obj/Debug/net8.0/MarioLevelRandomizer.genruntimeconfig.cache
+/home/axel/Documents/ieva/generationstarterkit-master/obj/Debug/net8.0/ref/MarioLevelRandomizer.dll
